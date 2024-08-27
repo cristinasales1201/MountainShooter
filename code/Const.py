@@ -38,7 +38,7 @@ ENTITY_SPEED = {
     'Enemy2': 1,
     'Enemy2Shot': 2,
     'Enemy3': 1,
-    'Enemy3Shot': 2,
+    'Enemy3Shot': 3,
 }
 
 ENTITY_HEALTH = {
@@ -98,7 +98,7 @@ ENTITY_DAMAGE = {
     'Enemy2': 1,
     'Enemy2Shot': 15,
     'Enemy3': 1,
-    'Enemy3Shot': 25,
+    'Enemy3Shot': 20,
 }
 
 ENTITY_SCORE = {
@@ -127,7 +127,7 @@ ENTITY_SCORE = {
     'Enemy1Shot': 0,
     'Enemy2': 125,
     'Enemy2Shot': 0,
-    'Enemy3': 150,
+    'Enemy3': 200,
     'Enemy3Shot': 0,
 }
 
